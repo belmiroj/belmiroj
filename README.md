@@ -35,7 +35,7 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ## 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://vercel.app)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belmiroj)](https://github.com/belmiroj/github-readme-stats)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belmiroj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
