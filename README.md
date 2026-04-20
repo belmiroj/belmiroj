@@ -35,6 +35,8 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ## 📊 Minhas Estatísticas
 
+![Estatísticas do GitHub](https://vercel.app)
+
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belmiroj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belmiroj&layout=compact&langs_count=7&theme=tokyonight"/>
