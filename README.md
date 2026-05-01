@@ -35,9 +35,9 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ## 📊 Minhas Estatísticas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=belmiroj&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/belmiroj/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=belmiroj&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)](https://github.com/belmiroj)
 
-![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=belmiroj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=belmiroj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
