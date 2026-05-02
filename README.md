@@ -35,7 +35,7 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ## 📊 Minhas Estatísticas
 
-![Metrics](https://metrics.lecoq.io/belmiroj?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo)
+![GitHub Streak](https://streak-stats.demolab.com/?user=belmiroj&theme=tokyonight)
 
 ---
 
